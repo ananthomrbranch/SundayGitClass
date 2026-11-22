@@ -13,5 +13,11 @@ public class ClassA {
 	public void tc4() {
 		System.out.println("tc4");
 	}
+	public void tc7() {
+		System.out.println("tc3");
+	}
+	public void tc8() {
+		System.out.println("tc4");
+	}
 
 }
