@@ -13,6 +13,12 @@ public class ClassA {
 	public void tc4() {
 		System.out.println("tc4");
 	}
+	public void tc5() {
+		System.out.println("tc5");
+	}
+	public void tc6() {
+		System.out.println("tc6");
+	}
 	public void tc7() {
 		System.out.println("tc3");
 	}
